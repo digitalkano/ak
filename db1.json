@@ -3,19 +3,19 @@
         {
             "name": "AdMob",
             "sname": "Banner",
-            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/banner",
+            "key_data": "/6499/example/banner",
             "rev_status": "0"
         },
         {
             "name": "AdMob",
             "sname": "Interstitial",
-            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/interstitial",
+            "key_data": "/6499/example/interstitial",
             "rev_status": "0"
         },
         {
             "name": "AdMob",
             "sname": "Rewarded Video",
-            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/appopen",
+            "key_data": "/6499/example/app-open",
             "rev_status": "0"
         },
         {
@@ -27,7 +27,7 @@
         {
             "name": "AdMob",
             "sname": "Native Banner",
-            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/native",
+            "key_data": "/6499/example/native",
             "rev_status": "0"
         }
     ]
