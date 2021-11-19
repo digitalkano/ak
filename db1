@@ -1,0 +1,34 @@
+{
+    "adkey_data": [
+        {
+            "name": "AdMob",
+            "sname": "Banner",
+            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/banner",
+            "rev_status": "0"
+        },
+        {
+            "name": "AdMob",
+            "sname": "Interstitial",
+            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/interstitial",
+            "rev_status": "0"
+        },
+        {
+            "name": "AdMob",
+            "sname": "Rewarded Video",
+            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/appopen",
+            "rev_status": "0"
+        },
+        {
+            "name": "AdMob",
+            "sname": "App ID",
+            "key_data": "no app id",
+            "rev_status": "0"
+        },
+        {
+            "name": "AdMob",
+            "sname": "Native Banner",
+            "key_data": "/21939239661,22594620179/apl/jigaraplinapp/native",
+            "rev_status": "0"
+        }
+    ]
+}
