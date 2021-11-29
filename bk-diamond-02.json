@@ -2,10 +2,10 @@
 "error":false,
 "music":true,
 "AppStatus":true,
-"appopen":"/6499/example/app-open",
-"interstitial":"/6499/example/interstitial",
-"banner":"/6499/example/banner",
-"native":"/6499/example/native",
+"appopen":"",
+"interstitial":"",
+"banner":"",
+"native":"",
 "data": [
 {
 "name":"",
