@@ -3,7 +3,7 @@
 "music":true,
 "caller-screen":true,
 "appopen":"/6499/example/app-open",
-"intertal":"/6499/example/interstitial",
+"interstitial":"/6499/example/interstitial",
 "banner":"/6499/example/banner",
 "native":"/6499/example/native",
 "data": [
