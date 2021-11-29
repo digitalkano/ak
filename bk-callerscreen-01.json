@@ -1,7 +1,7 @@
 {
 "error":false,
 "music":true,
-"caller-screen":true,
+"AppStatus":true,
 "appopen":"/6499/example/app-open",
 "interstitial":"/6499/example/interstitial",
 "banner":"/6499/example/banner",
