@@ -1,1 +1,20 @@
-
+{
+"error":false,
+"music":true,
+"caller-screen":true,
+"appopen":"/6499/example/app-open",
+"intertal":"/6499/example/interstitial",
+"banner":"/6499/example/banner",
+"native":"/6499/example/native",
+"data": [
+{
+"name":"",
+"playstorLink":"",
+"imgURL":""
+},
+{
+"name": "Play Cricket Quiz & Win Now",
+"playstorLink": "https://1373.win.qureka.com",
+"imgURL": "https://myplayquize.s3.us-west-1.amazonaws.com/8.png"
+}]
+}
