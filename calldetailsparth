@@ -16,19 +16,19 @@
                 "am_banner": "/6499/example/banner",
                 "am_appopen": "/6499/example/app-open",
                 "am_reward": "/6499/example/rewarded",
-                "fb_inter": "YOUR_PLACEMENT_ID",
+                 "fb_inter": "YOUR_PLACEMENT_IDD",
                 "fb_native": "YOUR_PLACEMENT_IDD",
-                "fb_banner": "YOUR_PLACEMENT_ID",
-                "fb_nativebanner": "YOUR_PLACEMENT_ID",
+                "fb_banner": "YOUR_PLACEMENT_IDD",
+                "fb_nativebanner": "YOUR_PLACEMENT_IDD",
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
-                "ads_priority": "0",
+                "ads_priority": "0,1",
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "yes",
-                "testmode": "yes",
-                "addextra": "match,https://874.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no"
+                "addialogshow": "none",
+                "testmode": "no",
+                "addextra": "no,match,https://874.win.qureka.com/,https://874.win.qureka.com/,off,https://appprivacypolicy101.blogspot.com/2021/05/app-privacy-policy.html"
             }
         ]
     }
