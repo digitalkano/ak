@@ -26,7 +26,7 @@
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "none",
+                "addialogshow": "all",
                 "testmode": "no",
                 "addextra": "no,match,https://874.win.qureka.com/,https://874.win.qureka.com/,off,https://appprivacypolicy101.blogspot.com/2021/05/app-privacy-policy.html"
             }
