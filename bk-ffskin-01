@@ -1,0 +1,23 @@
+{
+"error":false,
+"music":true,
+"app":true,
+
+"setAdmob_admob_appopen":"ca-app-pub-3940256099942544/6300978111",
+"setAdmob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+"setAdmob_Interstitial1":"ca-app-pub-3940256099942544/2247696110",
+"setAdmob_Interstitial_back":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_Interstitial_back1":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_admobNative":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_admobBanner":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_admobbannerNative":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_qurekalink":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_admobrewardedads":"ca-app-pub-3940256099942544/3419835294",
+"setAdmob_isSplash":"ca-app-pub-3940256099942544/3419835294",
+"data": [
+{
+"name": "Play Cricket Quiz & Win Now",
+"playstorLink": "https://1373.win.qureka.com",
+"imgURL": "https://myplayquize.s3.us-west-1.amazonaws.com/8.png"
+}]
+}
