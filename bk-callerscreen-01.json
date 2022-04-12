@@ -2,10 +2,10 @@
 "error":false,
 "music":true,
 "AppStatus":true,
-"appopen":"/6499/example/app-open",
-"interstitial":"/6499/example/interstitial",
-"banner":"/6499/example/banner",
-"native":"/6499/example/native",
+"appopen":"/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_openapp",
+"interstitial":"/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_interstitial",
+"banner":"/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_banner",
+"native":"/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_native",
 "data": [
 {
 "name":"",
